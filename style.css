@@ -35,12 +35,12 @@ body {
 
 .colunaesquerda {
     float: left;
-    width: 50%;
+    width: 80%;
 }
 
 .colunadireita {
     float: right;
-    width: 435px;
+    width: 230px;
 
 
 }
