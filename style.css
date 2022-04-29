@@ -1,0 +1,54 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    background-color: lightgray;
+}
+
+.cabecalho {
+    padding: 30px;
+    text-align: center;
+    background: white;
+}
+
+.menu {
+    background: black;
+    overflow: hidden;
+    
+}
+
+.menu a {
+    color:white;
+    text-decoration: none;
+    padding: 15px 30px;
+    display: inline-block;
+}
+
+.menu a:hover {
+    background-color: white;
+    color: black;
+    
+}
+
+.colunaesquerda {
+    float: left;
+    width: 50%;
+}
+
+.colunadireita {
+    float: right;
+    width: 435px;
+
+}
+
+.card {
+    background: white;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.rodape {
+    padding: 30px;
+    background: white;
+    text-align: center;
+    margin-top: 1397px;
+}
