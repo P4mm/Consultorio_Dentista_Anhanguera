@@ -1,3 +1,7 @@
+    /*Preciso arrumar os espaçamentos e incluir mais elementos na página, pra ficar mais legal visualmente :)*/
+
+
+
 body {
     font-family: Arial, Helvetica, sans-serif;
     padding: 30px;
@@ -37,6 +41,7 @@ body {
 .colunadireita {
     float: right;
     width: 435px;
+
 
 }
 
